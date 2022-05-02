@@ -36,6 +36,11 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 - [**pypcd**](https://github.com/dimatura/pypcd) Python module to read and write point clouds stored in the PCD file format, used by the Point Cloud Library.
 - [**Open3D**](https://github.com/intel-isl/Open3D) is a Python open-source library that supports rapid development of software that deals with 3D data.
 - [**segmenters_lib**](https://github.com/LidarPerception/segmenters_lib) is a ROS node for segmentation-based detection.
+- [**cilantro**](https://github.com/kzampog/cilantro) A Lean and Efficient Library for Point Cloud Data Processing (C++).
+- [**PyVista**](https://github.com/pyvista/pyvista/) 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit(VTK).
+- [**pyntcloud**](https://github.com/daavoo/pyntcloud) is a Python library for working with 3D point clouds.
+- [**pylas**](https://github.com/tmontaigu/pylas) Reading Las (lidar) in Python.
+- [**PyTorch**](https://github.com/rusty1s/pytorch_geometric) PyTorch Geometric (PyG) is a geometric deep learning extension library for PyTorch.
 
 ## Software (Open Source)
 
@@ -44,13 +49,19 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 - [**CloudCompare**](http://www.danielgm.net/cc/). 3D point cloud and mesh processing software 
 Open Source Project
 - [**OpenFlipper**](http://www.openflipper.org/). An Open Source Geometry Processing and Rendering Framework
-- [**PotreeDesktop**](https://github.com/potree/PotreeDesktop). A desktop/portable version of the web-based point cloud viewer
+- [**PotreeDesktop**](https://github.com/potree/PotreeDesktop). A desktop/portable version of the web-based point cloud viewer [**Potree**](https://github.com/potree/potree)
 - [**LAStools**](https://github.com/LAStools/LAStools) award-winning tools for efficient LiDAR processing (with LASzip)
 
 ## Servers
 
 - [**LOPoCS**](https://oslandia.github.io/lopocs/) is a point cloud server written in Python
 - [**Greyhound**](https://github.com/hobu/greyhound) is a server designed to deliver points from Entwine octrees
+
+## Robotics
+
+- [**Mobile Robot Programming Toolkit (MRPT)**](https://www.mrpt.org/) provides developers with portable and well-tested applications and libraries covering data structures and algorithms employed in common robotics research areas.
+- [**Robot Operating System (ROS)**](https://www.ros.org/)  is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
+- [**awesome-robotics**](https://github.com/ahundt/awesome-robotics) is a curated list of awesome links and software libraries that are useful for robots.
 
 ## Web-based point cloud viewers
 
