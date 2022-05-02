@@ -78,7 +78,7 @@ Open Source Project
 - [**International LiDAR Mapping Forum**](https://www.lidarmap.org/) International LiDAR Mapping Forum (ILMF)
 - [**3D-ARCH**](http://www.3d-arch.org/) is a series of international workshops to discuss steps and processes for smart 3D reconstruction, modelling, accessing and understanding of digital environments from multiple data sources.
 - [**Geo Business**](https://www.geobusinessshow.com/programme/) Geospatial event with many 3D Point clound and LiDAR presentations.
-=[**LiDAR Comex**](https://lidarcomex.com/) The Lidar Commercial Expo
+- [**LiDAR Comex**](https://lidarcomex.com/) The Lidar Commercial Expo
 
 
 ## Community
@@ -100,7 +100,10 @@ Open Source Project
 
 ## News
 
-[LiDAR News](https://lidarnews.com/) About 3D laser scanning and lidar, along with a number of related technologies such as unmanned aerial systems – UASs and photogrammetry. 
+[LiDAR News](https://lidarnews.com/) About 3D laser scanning and lidar, along with a number of related technologies such as unmanned aerial systems – UASs and photogrammetry.
+
 [LiDAR Mag](https://lidarmag.com/) Magazine about LiDARs.
+
 [Wired](https://www.wired.com/tag/lidar/) The WIRED conversation illuminates how technology is changing every aspect of our lives—from culture to business, science to design.
+
 [GIM International](https://www.gim-international.com/news/lidar) GIM International is the independent and high-quality information source for everything the global geomatics industry has to offer.
