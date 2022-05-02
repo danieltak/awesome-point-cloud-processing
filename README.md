@@ -78,7 +78,7 @@ Open Source Project
 - [**International LiDAR Mapping Forum**](https://www.lidarmap.org/) International LiDAR Mapping Forum (ILMF)
 - [**3D-ARCH**](http://www.3d-arch.org/) is a series of international workshops to discuss steps and processes for smart 3D reconstruction, modelling, accessing and understanding of digital environments from multiple data sources.
 - [**Geo Business**](https://www.geobusinessshow.com/programme/) Geospatial event with many 3D Point clound and LiDAR presentations.
-=[**LiDAR Comex**](https://lidarcomex.com/) The Lidar Commercial Expo
+- [**LiDAR Comex**](https://lidarcomex.com/) The Lidar Commercial Expo
 
 
 ## Community
